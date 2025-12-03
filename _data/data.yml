@@ -114,24 +114,29 @@ certifications:
         marketing analytics work.
         
 skills:
-  title: Skills &amp; Proficiency
-
+  title: Skills
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
+    - name: Digital Marketing
+      level: 85%
+    - name: Marketing Analytics
+      level: 80%
+    - name: Social Media Strategy
+      level: 90%
+    - name: Market Research & Consumer Insights
+      level: 85%
+    - name: Brand Development
+      level: 80%
+    - name: Content Creation & Copywriting
+      level: 85%
+    - name: Team Collaboration & Communication
+      level: 95%
+    - name: Leadership & Project Coordination
+      level: 90%
+    - name: Problem-Solving & Critical Thinking
+      level: 90%
+    - name: Microsoft Excel & Data Tools
+      level: 75%
+    - name: Canva & Creative Tools
+      level: 90%
+    - name: CRM & Email Marketing Basics
+      level: 70%
