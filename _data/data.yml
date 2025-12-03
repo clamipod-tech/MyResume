@@ -4,8 +4,8 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: true # set to false or comment line if you want to remove the "how to use?" in the sidebar
+  education: true # set to false if you want education in main section instead of in sidebar
 
   # Profile information
   name: Christopher Lamoureux
@@ -15,45 +15,42 @@ sidebar:
   # Sidebar links
   email: clamipod@gmail.com  
   phone: 702 501 4535
-  timezone: Pacific Standard Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Pacific Standard Time # Enter your timezone
   citizenship: United States of America, Nevada
-  website: https://clamipod-tech.github.io/christopherlamoureux/ # Include the full website URL, including "http://" or "https://".
+  website: https://clamipod-tech.github.io/christopherlamoureux/
   linkedin: https://www.linkedin.com/feed/
-  instagram: c.l.3267 # Number/Username, e.g. 123456/alandoe
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  instagram: c.l.3267
+  pdf:
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
+      - idiom: English
+        level: Native
+
   interests:
     title: Interests
     info:
-    - item: Firearms
-      link:
-
-
-    - item: Outdoors
-      link:
-
-
-    - item: Cooking
-      link:
-
+      - item: Firearms
+        link:
+      - item: Outdoors
+        link:
+      - item: Cooking
+        link:
 
 career-profile:
   title: Career Profile
   summary: |
     Hello, my name is Christopher Lamoureux, and I am a senior Marketing undergraduate at the University of Nevada, Reno, focused on developing strong analytical, creative, and strategic marketing skills as I prepare to pursue my MBA. I thrive in environments where I can meet new people, collaborate in teams, and build meaningful connections that expand my learning. I am eager to bring my own perspective to problem-solving and to contribute fresh ideas to the organizations I work with. Motivated, adaptable, and committed to continuous growth, I seek opportunities to gain hands-on experience while developing professionally and personally.
+
 education:
   title: Education
   info:
-  - degree: B.S. in Marketing  
-    university: University of Nevada, Reno
-    time: 2021- Present
-    details: |
-      Expected to graduate in May 2026 with a Bachelor of Science in Marketing. Coursework includes
+    - degree: B.S. in Marketing
+      university: University of Nevada, Reno
+      time: 2021 - Present
+      details: |
+        Expected to graduate in May 2026 with a Bachelor of Science in Marketing. Coursework includes
         digital marketing, consumer behavior, analytics, brand strategy, and market research. Experienced
         in group projects, case studies, and data-driven marketing analysis. Actively developing skills in
         marketing strategy, communication, and project management.
@@ -64,11 +61,11 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Marketing Student — Academic Projects
-    time: 2021 - Present
-    university: University of Nevada, Reno
-    details: |
-     Contributed to a variety of hands-on marketing projects involving research, analytics, and
+    - role: Marketing Student — Academic Projects
+      time: 2021 - Present
+      company: University of Nevada, Reno
+      details: |
+        Contributed to a variety of hands-on marketing projects involving research, analytics, and
         campaign development. Worked in teams to solve real business problems while building strong
         communication, presentation, and collaboration skills. Comfortable leading discussions,
         organizing tasks, and contributing creative ideas.
@@ -77,11 +74,11 @@ experiences:
         - Helped develop mock marketing campaigns for class-based client projects
         - Regularly collaborated in teams to present strategies and project findings
 
-  - role: Team Leader / Student Collaboration Experience
-    time: 2021 - Present
-    university: University of Nevada, Reno
-    details: |
-      Served as a consistent team contributor and often an informal leader during group assignments.
+    - role: Team Leader / Student Collaboration Experience
+      time: 2021 - Present
+      company: University of Nevada, Reno
+      details: |
+        Served as a consistent team contributor and often an informal leader during group assignments.
         Practiced coordinating tasks, motivating team members, and ensuring deadlines were met.
         Developed strong connection-building skills through frequent collaboration.
 
@@ -92,27 +89,27 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Google Digital Marketing Fundamentals
-    time: 2021 - Present 
-    organization: Google
-    details: |
-      Completed introductory training in core areas of digital marketing, including SEO, SEM,
+    - name: Google Digital Marketing Fundamentals
+      time: 2024
+      organization: Google
+      details: |
+        Completed introductory training in core areas of digital marketing, including SEO, SEM,
         analytics, social media, and content strategy.
 
-  - name: HubSpot Inbound Marketing Certification
-    time: 2021 - Present
-    organization: HubSpot Academy
-    details: |
-      Learned the foundations of inbound marketing, lead nurturing, consumer engagement,
+    - name: HubSpot Inbound Marketing Certification
+      time: 2024
+      organization: HubSpot Academy
+      details: |
+        Learned the foundations of inbound marketing, lead nurturing, consumer engagement,
         and content creation strategies.
 
-  - certificate: Microsoft Excel for Business (Beginner–Intermediate)
+    - name: Microsoft Excel for Business (Beginner–Intermediate)
       time: 2024
-      company: Microsoft / Coursera
+      organization: Microsoft / Coursera
       details: |
         Gained experience with spreadsheets, formulas, pivot tables, and data organization useful for
         marketing analytics work.
-        
+
 skills:
   title: Skills
   toolset:
