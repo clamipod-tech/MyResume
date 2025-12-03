@@ -8,30 +8,18 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Christopher Lamoureux
+  tagline: Senior Marketing Major | University of Nevada, Reno
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  email: clamipod@gmail.com  
+  phone: 702 501 4535
+  timezone: Pacific Standard Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: United States of America, Nevada
+  website: https://clamipod-tech.github.io/christopherlamoureux/ # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/feed/
+  instagram: c.l.3267 # Number/Username, e.g. 123456/alandoe
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -39,21 +27,14 @@ sidebar:
     info:
     - idiom: English
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Firearms
       link:
 
 
-    - item: Snowboarding
+    - item: Outdoors
       link:
 
 
@@ -64,12 +45,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Hello, my name is Christopher Lamoureux, and I am a senior Marketing undergraduate at the University of Nevada, Reno, focused on developing strong analytical, creative, and strategic marketing skills as I prepare to pursue my MBA. I thrive in environments where I can meet new people, collaborate in teams, and build meaningful connections that expand my learning. I am eager to bring my own perspective to problem-solving and to contribute fresh ideas to the organizations I work with. Motivated, adaptable, and committed to continuous growth, I seek opportunities to gain hands-on experience while developing professionally and personally.
 education:
   title: Education
   info:
@@ -140,9 +116,9 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: Google Digital Marketing Fundamentals
     start: 2020
-    end: 2021
+    end: 2024
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
